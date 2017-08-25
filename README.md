@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bjregan77/bjregan77.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I appreciate those who make it possible to host HTML pages at no cost.  I've been using Wordpress to [blog about travels and hikes](https://yetanotherwebsite.wordpress.com/).  I often include interactive maps that show the track of our hikes, but Wordpress doesn't allow me to upload the HTML pages that contain the maps.  That's where GitHub comes in.  I host the map pages here and then just include a link to them on my blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'll also take this opportunity to promote the free resources at [GPSVisualizer](http://www.gpsvisualizer.com/).  Using a GPS file that I create while hiking, it is easy to upload the file to the GPSVisualizer site where a couple of mouse clicks will produce an HTML map file that I can then save and download.
+
 
 ### Markdown
 
